@@ -1,8 +1,8 @@
 {
-    "name":        "teqneers/UUID",
+    "name":        "teqneers/uuid",
     "description": "DrUUID RFC 4122 library for PHP",
     "keywords":    ["uuid", "RFC-4122"],
-    "homepage":    "https://github.com/teqneers/UUID",
+    "homepage":    "https://github.com/teqneers/uuid",
     "type":        "library",
     "license":     "MIT",
     "authors":     [
